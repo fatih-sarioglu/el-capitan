@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c74f46d77704e1e49a3602995e77afc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exclamationMarkPrefab: {fileID: 6305182980865807748, guid: 0712ed580c7efc94ebb921888f76c12c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
